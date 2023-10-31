@@ -27,7 +27,6 @@ function Directors() {
             </article>
         ))}
         </div>
-        {/* Director info here! */}
       </main>
     </>
   );
